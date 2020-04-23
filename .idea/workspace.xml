@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1862134c-21d4-4fac-9315-9aadcf89a117" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/Lesson2" />
+  </component>
+  <component name="ProjectId" id="1a5AQ8CuPgy7pP7J9ZTtQPDvGHY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/LessonOOP/Lesson3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson2_dz" />
+      <recent name="Lesson2" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/LessonOOP/Lesson3" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task6">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task1" />
+      <module name="GeekBrainsLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task2" />
+      <module name="GeekBrainsLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task3" />
+      <module name="GeekBrainsLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task4" />
+      <module name="GeekBrainsLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task6" />
+      <module name="GeekBrainsLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="GeekBrainsLessons" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="GeekBrainsLessons" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Task4" />
+      <item itemvalue="Application.Task3" />
+      <item itemvalue="Application.Task2" />
+      <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.Task6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1862134c-21d4-4fac-9315-9aadcf89a117" name="Default Changelist" comment="" />
+      <created>1586015061846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586015061846</updated>
+    </task>
+    <task id="LOCAL-00001" summary="GeekBrains Java">
+      <created>1587663364581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587663364581</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GeekBrains Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="GeekBrains Java" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586276383881">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="250" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1586276383881" />
+    <state x="720" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1586972097065">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="720" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1586972097065" />
+    <state x="560" y="322" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586194635578">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="560" y="322" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.821@0.23.1440.821" timestamp="1586194635578" />
+    <state x="645" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587217205971">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="645" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1587217205971" />
+    <state x="682" y="47" key="CommitChangelistDialog2" timestamp="1587663364384">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="682" y="47" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1587663364384" />
+    <state width="1016" height="196" key="GridCell.Tab.0.bottom" timestamp="1587663237345">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586029887445" />
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1586036094852" />
+    <state width="1016" height="196" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1587222035052" />
+    <state width="1016" height="196" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1586978480197" />
+    <state width="1016" height="196" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1587663237345" />
+    <state width="1016" height="196" key="GridCell.Tab.0.center" timestamp="1587663237344">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586029887444" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1586036094849" />
+    <state width="1016" height="196" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1587222035051" />
+    <state width="1016" height="196" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1586978480196" />
+    <state width="1016" height="196" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1587663237344" />
+    <state width="1016" height="196" key="GridCell.Tab.0.left" timestamp="1587663237343">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586029887443" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1586036094847" />
+    <state width="1016" height="196" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1587222035051" />
+    <state width="1016" height="196" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1586978480195" />
+    <state width="1016" height="196" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1587663237343" />
+    <state width="1016" height="196" key="GridCell.Tab.0.right" timestamp="1587663237345">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586029887444" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1586036094850" />
+    <state width="1016" height="196" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1587222035052" />
+    <state width="1016" height="196" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1586978480197" />
+    <state width="1016" height="196" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1587663237345" />
+    <state width="1226" height="244" key="GridCell.Tab.1.bottom" timestamp="1586276628709">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1226" height="244" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1586276628709" />
+    <state width="1226" height="244" key="GridCell.Tab.1.center" timestamp="1586276628708">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1226" height="244" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1586276628708" />
+    <state width="1226" height="244" key="GridCell.Tab.1.left" timestamp="1586276628708">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1226" height="244" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1586276628708" />
+    <state width="1226" height="244" key="GridCell.Tab.1.right" timestamp="1586276628708">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1226" height="244" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1586276628708" />
+    <state x="441" y="230" key="Vcs.Push.Dialog.v2" timestamp="1587663473742">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="441" y="230" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1587663473742" />
+    <state x="686" y="162" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587053325736">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="686" y="162" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.821@0.23.1440.821" timestamp="1587053325736" />
+    <state x="356" y="173" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586276435207">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="356" y="173" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.821@0.23.1440.821" timestamp="1586276435207" />
+    <state x="136" y="51" key="new project wizard" timestamp="1586282889514">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="136" y="51" key="new project wizard/0.23.1440.814@0.23.1440.814" timestamp="1586015284562" />
+    <state x="136" y="51" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1586282889514" />
+  </component>
+</project>
