@@ -1,2 +1,2 @@
-# GeekBrains
+# GeekBrains lessons
  
