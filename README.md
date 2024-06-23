@@ -6,3 +6,4 @@
 4. lesson 4
 5. lesson 5
 6. lesson 6
+7. lesson 7
