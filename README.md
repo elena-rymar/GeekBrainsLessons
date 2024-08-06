@@ -51,3 +51,4 @@
 49. lesson 49
 50. lesson 50
 51. lesson 51
+52. lesson 52
