@@ -80,5 +80,5 @@
 78. lesson 78
 79. lesson 79
 80. lesson 80
-81. lesson
-82. 
+81. lesson 81
+82. lesson 82
