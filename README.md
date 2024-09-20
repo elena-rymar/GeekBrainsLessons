@@ -94,4 +94,5 @@
 92. lesson 92
 93. lesson 93
 94. lesson 94
-95. 
+95. lesson 95
+96. lesson 96
