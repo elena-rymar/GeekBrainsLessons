@@ -106,7 +106,7 @@
 104. lesson 104
 105. lesson 105
 106. lesson 106
-107. lesson 107 late
+107. lesson 107
 108. lesson 108
 109. lesson 109
 110. lesson 110
