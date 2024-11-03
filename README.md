@@ -100,7 +100,7 @@
 98. lesson 98
 99. lesson 99
 100. lesson 100
-101.  lesson 101
+101. lesson 101
 102. lesson 102
 103. lesson 103
 104. lesson 104
